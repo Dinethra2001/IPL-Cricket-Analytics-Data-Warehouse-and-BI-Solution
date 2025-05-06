@@ -1,0 +1,24 @@
+VenueID	CityName	CountryName
+1	Cuttack	India
+2	Mumbai	India
+3	Visakhapatnam	India
+4	Abu Dhabi	U.A.E
+5	Kolkata	India
+6	Delhi	India
+7	Kanpur	India
+8	Dharamsala	India
+9	Indore	India
+10	Ranchi	India
+11	Bangalore	India
+12	Chennai	India
+13	Pune	India
+14	Mohali	India
+15	Hyderabad	India
+16	Ahmedabad	India
+17	Rajkot	India
+18	Jaipur	India
+19	Raipur	India
+20	Abu Dhabi	U.A.E
+21	Abu Dhabi	U.A.E
+22	Pune	India
+23	Mumbai	India
